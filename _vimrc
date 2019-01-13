@@ -18,5 +18,5 @@ nnoremap <leader>o :ccopen<CR> 		"QuickFixを開く
 let g:go_auto_sameids = 1  		"自動ハイライト
 let mapleader = "\<Space>"		"<space>をleaderにマッピング
 map <leader>r :GoRun<CR>		"<space>＋rで実行
-map <leader>b :GoBuild<CR>
-map <leader>t :GoTest<CR>
+map <leader>b :GoBuild<CR>		"
+map <leader>t :GoTest<CR>		"
