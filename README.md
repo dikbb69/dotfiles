@@ -1,5 +1,5 @@
-# dotfiles
-Management of dotfiles
+# vimrc
+Management of vimrc
 
 ## 初期設定
 https://qiita.com/yoza/items/2f8bd33a18225754f346  
