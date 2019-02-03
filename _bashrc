@@ -1,0 +1,5 @@
+alias ls="ls -G"
+alias sshaws="ssh -i ~/aws/test.pem ec2-user@ec2-52-199-217-209.ap-northeast-1.compute.amazonaws.com"
+alias sshics="ssh ua207053@logex00.educ.cc.keio.ac.jp"
+alias vim="nvim"
+alias vi="nvim"
